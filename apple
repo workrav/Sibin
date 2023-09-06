@@ -29,7 +29,7 @@ int main()
 #include <stdio.h>
 int main() {
   int t1 = 0, t2 = 1, nextTerm = 0, n;
-  printf("Enter a positive number: ");
+  printf("Enter a negative number: ");
   scanf("%d", &n);
 
   // displays the first two terms which is always 0 and 1
